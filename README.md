@@ -9,7 +9,7 @@ Tu misión como **Bug Hunter** es inspeccionar, depurar y corregir cada una de l
 ---
 
 ## Reglas de la Competencia
-* **Tiempo Límite:** 60 minutos.
+* **Tiempo aproximado:** 60 minutos.
 * **Puntaje Total Máximo:** 750 puntos.
 * **Evaluación:** Offline mediante suites de pruebas automatizadas con **JUnit 5**.
 
